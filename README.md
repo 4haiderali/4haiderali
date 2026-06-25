@@ -1,6 +1,6 @@
 # Haider Ali
 
-Senior Power System Engineer at [Power Planners International]([https://www.ppiengineers.com](https://powerplannersint.com/)), Lahore, Pakistan.
+Senior Power System Engineer at [Power Planners International](https://powerplannersint.com/), Lahore, Pakistan.
 
 I work on grid interconnection, compliance, and EMT studies for utility-scale renewable and BESS projects across Pakistan, Saudi Arabia, Nigeria, Nepal, and Qatar. Core tools: PSS/E, PSCAD/EMTDC, ETAP, and Python.
 
