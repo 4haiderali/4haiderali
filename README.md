@@ -9,7 +9,7 @@ Alongside the engineering work, I build Python automation tools that eliminate m
 
 | Tool | Description |
 |---|---|
-| [PSS/E Plant Aggregation](https://github.com/4haiderali/PSS-E-Plant-Aggregation) | PCC-driven P²Z collector system aggregation for disaggregated wind, solar, BESS, and hybrid plants in PSS/E |
+| [PSS/E Plant Aggregation](https://github.com/4haiderali/PSSE-Plant-Aggregation) | PCC-driven P²Z collector system aggregation for disaggregated wind, solar, BESS, and hybrid plants in PSS/E |
 | [Outfile Viewer](https://github.com/4haiderali/Outfile-Viewer) | Desktop app for parsing and visualising PSCAD `.out` simulation files |
 | Short Circuit Reporter | One-click PSS/E fault level extraction to formatted Excel reports |
 | ACCC Screening Tool | Automated N-1 contingency branch loading extraction from PSS/E |
