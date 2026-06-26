@@ -1,5 +1,4 @@
 # Haider Ali
-
 Senior Power System Engineer at [Power Planners International](https://powerplannersint.com/), Lahore, Pakistan.
 
 I work on grid interconnection, compliance, and EMT studies for utility-scale renewable and BESS projects across Pakistan, Saudi Arabia, Nigeria, Nepal, and Qatar. Core tools: PSS/E, PSCAD/EMTDC, ETAP, and Python.
@@ -10,6 +9,7 @@ Alongside the engineering work, I build Python automation tools that eliminate m
 
 | Tool | Description |
 |---|---|
+| [PSS/E Plant Aggregation](https://github.com/4haiderali/PSS-E-Plant-Aggregation) | PCC-driven P²Z collector system aggregation for disaggregated wind, solar, BESS, and hybrid plants in PSS/E |
 | [Outfile Viewer](https://github.com/4haiderali/Outfile-Viewer) | Desktop app for parsing and visualising PSCAD `.out` simulation files |
 | Short Circuit Reporter | One-click PSS/E fault level extraction to formatted Excel reports |
 | ACCC Screening Tool | Automated N-1 contingency branch loading extraction from PSS/E |
