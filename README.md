@@ -11,12 +11,12 @@ Alongside the engineering work, I build Python automation tools that eliminate m
 |---|---|
 | [PSS/E Plant Aggregation](https://github.com/4haiderali/PSSE-Plant-Aggregation) | PCC-driven P²Z collector system aggregation for disaggregated wind, solar, BESS, and hybrid plants in PSS/E |
 | [Outfile Viewer](https://github.com/4haiderali/Outfile-Viewer) | Desktop app for parsing and visualising PSCAD `.out` simulation files |
-| Short Circuit Reporter | One-click PSS/E fault level extraction to formatted Excel reports |
+| [Short Circuit Reporter](https://github.com/4haiderali/PSSE-SC-Reporter) | One-click PSS/E fault level extraction to formatted Excel reports |
 | ACCC Screening Tool | Automated N-1 contingency branch loading extraction from PSS/E |
 | Stability Study Runner | Excel-driven PSS/E dynamic study batch automation |
 | SLD Label Compiler | Automated PSS/E single-line diagram label population from load flow results |
 
-> Note: SC Reporter, ACCC Tool, Stability Runner, and SLD Compiler are internal tools — sanitised versions will be published here progressively.
+> Note: ACCC Tool, Stability Runner, and SLD Compiler are internal tools — sanitised versions will be published here progressively.
 
 ## Stack
 
